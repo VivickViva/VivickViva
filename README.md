@@ -3,7 +3,7 @@
 </div>
 <div align="center">
   <p>
-    antes eu sofria agora eu sou fria
+   
   </p>
 
 </div>
